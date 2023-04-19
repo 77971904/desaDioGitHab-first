@@ -1,3 +1,3 @@
 # desaDioGitHab-first
-first proj. git/gitHab
-##Testano as estenção para  codificar com o java no vscod
+first proj. para desafiar a conhecimento sobre o Git/GitHub.
+##  Testando extesões para codoficar em java no vscode
